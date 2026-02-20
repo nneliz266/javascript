@@ -4098,3 +4098,7 @@ We encourage you to fork this guide and change the rules to fit your team’s st
 ## Добавление от branch2: строка 1
 - Пункт branch2: первый элемент
 - Пункт branch2: второй элемент
+## Добавление от branch1: строка 1
+- Пункт branch1: первый элемент
+- Пункт branch1: второй элемент
+
