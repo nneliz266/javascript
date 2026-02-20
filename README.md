@@ -4099,3 +4099,4 @@ We encourage you to fork this guide and change the rules to fit your team’s st
 - Пункт branch1: первый элемент
 - Пункт branch1: второй элемент
 ## Новый раздел от branch1
+- Дополнительный пункт branch1: A
